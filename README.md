@@ -109,6 +109,10 @@ path, read, err := instance.CopyTarball(targetPath)
 
 `CopyTarball()` returns the path to the archive, a Tar reader for the archive, and an error, if any
 
+## Links
+- Link to https://github.com/stewartad/container-structure-test and explanation of how it's important for this
+- Link to containerized examples https://github.com/stewartad/singularity-container-test
+
 ## License
 
    Copyright 2019 Austen Stewart
